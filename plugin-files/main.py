@@ -2,7 +2,7 @@
 # vim:fileencoding=utf-8
 
 __license__ = 'MIT'
-__copyright__ = '2025, Your Name'
+__copyright__ = '2025, Austin Krause'
 
 from calibre.gui2 import error_dialog
 from calibre.gui2.tweak_book import current_container
