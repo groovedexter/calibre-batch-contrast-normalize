@@ -4,6 +4,8 @@
 
 Enhance the visual quality of images in your ebooks with the **Ebook Image Normalizer Plugin** for Calibre! This plugin automatically normalizes, despeckles*, and optimizes images in your ebooks, making scanned pages cleaner, text sharper, and file sizes more manageable—all with a single click.
 
+The settings in this tool are primarily for scanned .pdf converted to .epub with Zamzar and fixed layouts. So the entire .epub file is images. To improve readability with E-ink and E-reader devices like the Kindle / Kindle Paperwhite / etc. Processing the .epubs with this plugin dramatically increases readability on these devices.
+
 ## ✨ Features
 
 - **Contrast & Brightness Enhancement**: Automatically adjusts contrast and brightness using `ImageOps.autocontrast` and `ImageEnhance` to make text pop and improve readability.
@@ -32,7 +34,7 @@ Enhance the visual quality of images in your ebooks with the **Ebook Image Norma
 3. **Install the Plugin in Calibre**:
    - Open Calibre.
    - Go to `Preferences` > `Plugins` > `Load plugin from file`.
-   - Navigate to the downloaded ZIP file (` EditorNormalizeImages.zip`) and select it.
+   - Navigate to the downloaded ZIP file (`EditorNormalizeImages.zip`) and select it.
    - Click `OK` to install the plugin.
    - Restart Calibre to activate the plugin.
 
