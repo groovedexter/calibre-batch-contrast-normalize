@@ -98,7 +98,7 @@ Please ensure your code follows the existing style and includes appropriate comm
 
 ## 📬 Contact
 
-Have questions or suggestions? Open an issue on GitHub or reach out to [your-username](https://github.com/groovedexter).
+Have questions or suggestions? Open an issue on GitHub or reach out to [me on github](https://github.com/groovedexter).
 
 ---
 
