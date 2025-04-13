@@ -45,7 +45,7 @@ The settings in this tool are primarily for scanned .pdf converted to .epub with
 ## 🛠️ Usage
 
 1. **Select an Ebook**:
-   - In Calibre, select the ebook you want to process (e.g., an EPUB or MOBI file containing images).
+   - In Calibre Editor, select the ebook you want to process (e.g., an EPUB or MOBI file containing images).
 
 2. **Run the Plugin**:
    - Click the "Normalize Images" button in the Calibre toolbar (or access it via the `Preferences` > `Plugins` menu).
