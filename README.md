@@ -25,7 +25,7 @@ The settings in this tool are primarily for scanned .pdf converted to .epub with
 ### Steps
 1. **Download the Plugin**:
    - Download the latest release from the [Releases](https://github.com/groovedexter/calibre-batch-contrast-normalize/releases/) page.
-   - Alternatively, clone this repository.
+   - Alternatively, clone this repository and then add the files from plugin-files to a .zip
      ```bash
      git clone https://github.com/groovedexter/calibre-batch-contrast-normalize.git
      ```
